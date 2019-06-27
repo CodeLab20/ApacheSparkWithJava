@@ -1,0 +1,4 @@
+Virat~31~Batsman
+Sachin~40~Batsman
+Anil~45~Bowler
+Dhoni~35~WicketKeeper

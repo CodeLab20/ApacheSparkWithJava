@@ -1,0 +1,6 @@
+Java.lang.UnsupportedClassVersionError: Bad version number in .class file
+Java.lang.UnsupportedClassVersionError: Bad version number in .class file
+Java.lang.UnsupportedClassVersionError: Bad version number in .class file
+Java.lang.UnsupportedClassVersionError: Bad version number in .class file
+Java.lang.UnsupportedClassVersionError: Bad version number in .class file
+Java.lang.UnsupportedClassVersionError: Bad version number in .class file
